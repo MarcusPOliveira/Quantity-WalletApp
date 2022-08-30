@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Quantity-WalletApp",
+    "slug": "Quantity-WalletApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
